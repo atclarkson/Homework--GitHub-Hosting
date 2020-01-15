@@ -13,6 +13,7 @@ In this assignment, you'll get accustomed to how github.io works and host to git
 **Video**:
 
 How to set up your first GitHub App (Links to an external site.)
+https://youtu.be/Kln_KjsXtVw
 
 
 **Task**: Create an application that has your name, concentration in CIT or CGT, favorite color, and your favorite place in the world.
